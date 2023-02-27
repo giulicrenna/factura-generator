@@ -1,0 +1,25 @@
+{
+    "error": "N",
+    "errores": [],
+    "error_cod": [],
+    "error_details": [],
+    "external_reference": "",
+    "requiere_fec": "NO",
+    "observaciones": "",
+    "tfc_generacion_tipo": 6,
+    "rta": "El comprobante FACTURA C 00001-00002134 (Instituto Crenna) se ha guardado correctamente ",
+    "cae": " ",
+    "vencimiento_cae": "01\/01\/2000",
+    "vencimiento_pago": "26\/02\/2023",
+    "comprobante_nro": "00001-00002134",
+    "comprobante_tipo": "FACTURA C",
+    "afip_codigo_barras": "",
+    "afip_qr": "",
+    "micrositios": {
+        "descarga": "https:\/\/servicios.tusfacturas.app\/micrositios\/descargas\/9f038f553674c96fba176ddfcb8ad4a7\/f801f889dafb63284522ab45b83ab2535e20229985fbc7c5ae9cb02e1dade29c\/X4AjF5l2uYhb07bfLKA8\/00002134",
+        "cliente": ""
+    },
+    "envio_x_mail": "S",
+    "envio_x_mail_direcciones": "test@test.com",
+    "comprobante_pdf_url": "https:\/\/www.tusfacturas.app\/app\/comprobantes\/fc\/2023\/02\/26\/20438414887\/56518-20438414887-1292963535-11-00001-00002134.pdf"
+}
